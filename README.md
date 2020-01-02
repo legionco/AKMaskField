@@ -35,8 +35,8 @@ AKMaskField is UITextField subclass which allows enter data in the fixed quantit
 
 ## Requirements
 
-- iOS 11+
-- Xcode 10.2+
+- iOS 12+
+- Xcode 11+
 
 ## Installation
 
